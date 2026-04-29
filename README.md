@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Cristiano Lino Felicio 👋
 
-<!--
-**cristiano-lino-felicio/cristiano-lino-felicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Este espaço é a minha vitrine de grandes projetos, onde compartilho minhas soluções e produtos.
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
+- 👨‍💻 Há mais de 25 anos trabalhando com Linguagens, Compiladores e Máquinas Virtuais.
+- 🎓 Mestre em Ciência da Computação pela Universidade Estadual de Campinas.
+- 🎯 Objetivo: Criar soluções de impacto para o mundo tecnológico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+C++, Java, Python, Windows, Linux e IA. 
+
+### 📁 Meus Projetos em Destaque
+*Em breve, meus principais repositórios aparecerão aqui!*
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** [Link para seu LinkedIn aqui]
+- **E-mail:** cristiano.lino.felicio@gmail.com
+
+---
+*“Fé”*
+
